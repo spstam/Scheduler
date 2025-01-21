@@ -1,6 +1,6 @@
 # User-Level Thread Scheduler
 
-This project implements a user-level thread scheduler.
+This project implements a user-level thread scheduler in C.
 
 ## Features
 
