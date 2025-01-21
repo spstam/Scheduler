@@ -1,0 +1,8 @@
+INSTRUCTIONS:
+* To clean up generated files: `make clean`
+* To build your project: `make`
+* To run the project: `./ex2`
+
+1. To test the program, run: `./script.sh`. This script cleans, builds, and runs the program once. During this run, printf statements allow you to track the user-level threads in our library and verify their functionality.
+2. With `ex2.c`, we test our user-level threads by having multiple threads enter a critical section using our semaphores. After exiting the critical section, each thread sleeps for a while. This tests synchronization, the sleep function, and the semaphores.
+3. You can easily modify the number of runs in script.sh. Additionally, you can change the number of threads directly in `./ex2`.
