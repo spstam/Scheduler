@@ -28,3 +28,5 @@ This project implements a user-level thread scheduler in C.
 * Spyridon Stamoulis
 * Emmanouil Raftopoulos
 * Panagiotis Mpalamotis
+
+## License: MIT License
